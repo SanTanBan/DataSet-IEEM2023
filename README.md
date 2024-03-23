@@ -1,9 +1,9 @@
-# DataSet-IEEM2023
+This repository contains Datasets for the Instances 8 to 15 of 
 Supplementary DataSets (for replicating the Comparison Table) may be found here: https://github.com/SanTanBan/mHFVRPSDP-DataSet
 
 ### The conference presentation as presented on the 19th of December 2023 is also uploaded in this repository (with intimation to the organizers).
 
-The DOI of my Conference Proceeding: https://doi.org/10.1109/IEEM58616.2023.10406762
+The DOI of my Conference Proceeding in [IEEM 2023](https://ieem.org/): https://doi.org/10.1109/IEEM58616.2023.10406762
 
 ### To see my implementation of the heuristics in [Avci and Topaloglu's 2016 paper](https://doi.org/10.1016/j.eswa.2016.01.038):
 1. The original implementation: https://github.com/SanTanBan/PaperHeuristic
